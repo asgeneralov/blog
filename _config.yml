@@ -7,3 +7,4 @@ collections:
     output: true
     title: true
     sort: true
+    sort_by: sort
