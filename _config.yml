@@ -9,7 +9,7 @@ github_username:  asgeneralov
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  collections_dir: cycles
+collections_dir: cycles
 collections:
   maven:
     output: true
