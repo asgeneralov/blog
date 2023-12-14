@@ -2,10 +2,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 website: https://asgeneralov.github.io
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 title: "Blog" # the name of your site, e.g. ACME Corp.
-email: work.alexg@yandex.ru
+email: asgeneralov@inbox.ru
 description: >- # this means to ignore newlines until "baseurl:"
-  Это мой персональный блог о технологиях, програмиировании и все что с этим связано
-twitter_username: asgeneralov 
+  Блог о разработке на Java
+#twitter_username: asgeneralov 
 github_username:  asgeneralov
 plugins:
   - jekyll-feed
