@@ -1,13 +1,13 @@
 ---
-title: Цикл статей об Инструменте Maven
+title: Apache Maven
 layout: default
 ---
-# Цикл статей о инструменте Maven
+# Apache Maven
 <ol class="page-list">
 {% for maven_member in site.maven %}
   <!-- <h2>{{ maven_member.title }}</h2> -->
   <li>
-  <a href="{{ maven_member.url }}">
+  <a href="{{ maven_member.url | relative_url }}">
     {{ maven_member.title }}
   </a>
   </li>
