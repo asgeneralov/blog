@@ -1,7 +1,7 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 website: https://asgeneralov.github.io
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-title: "Blog" # the name of your site, e.g. ACME Corp.
+title: "asgeneralov" # the name of your site, e.g. ACME Corp.
 email: asgeneralov@inbox.ru
 description: >- # this means to ignore newlines until "baseurl:"
   Блог о разработке на Java
